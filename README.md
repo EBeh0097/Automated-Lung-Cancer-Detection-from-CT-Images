@@ -55,10 +55,7 @@ The workflow includes:
    - holdout test evaluation  
    - accuracy, precision, recall, F1-score, AUC, specificity, and confusion matrix analysis  
 
-## Repository Files
+## Author
 
-```text
-.
-├── Lung_cancer_detection_fixed_10fold.ipynb
-├── Lung_Cancer_Detection_Paper.docx
-└── README.md
+Emmanuel Ebeh  
+Health Data Scientist | AI Engineer | Generative AI Researcher
